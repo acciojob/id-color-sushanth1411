@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+#yellow{
+	backgroung-color:yellow;
+	border:1px;
+	border-collapse:green;
+}
+#red{
+	backgroung-color:red;
+	border:1px;
+	border-collapse:black;
+}
+
+#green{
+	backgroung-color:green;
+	border:1px;
+	border-collapse:yellow;
+}
