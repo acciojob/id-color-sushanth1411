@@ -1,17 +1,17 @@
 /*  your css code here. If applicable */
 #yellow{
-	backgroung-color:yellow;
+	background-color:yellow;
 	border:1px;
-	border-collapse:green;
+	border-color:green;
 }
 #red{
-	backgroung-color:red;
+	background-color:red;
 	border:1px;
-	border-collapse:black;
+	border-color:black;
 }
 
 #green{
-	backgroung-color:green;
+	background-color:green;
 	border:1px;
-	border-collapse:yellow;
+	border-color:yellow;
 }
